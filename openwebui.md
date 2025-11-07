@@ -21,9 +21,7 @@ docker run -d -p 3001:8080 -e OPENAI_API_KEY=api_key -v open-webui:/app/backend/
 
 # Setup pipline
 
-### Clone from dall
-git clone https://gitlab.aidal.ir/ml/dall-chat-pipelines.git
-### Clone from git pipline(openwebui)
+### Clone from git
 https://github.com/open-webui/pipelines.git
 
 ### Build image
