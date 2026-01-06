@@ -7,6 +7,8 @@ A simple guide to install and authenticate with GitHub using GitHub CLI.
 ### Windows
 ```bash
 winget install --id GitHub.cli
+OR
+winget install --id GitHub.cli --source winget
 ```
 
 ### Linux (Ubuntu/Debian)
