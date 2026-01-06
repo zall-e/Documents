@@ -101,4 +101,4 @@ gh pr create
 
 ---
 
-For more information, visit the [official documentation](https://cli.github.com/manual/).
+For more information, visit the [official documentation](https://cli.github.com/manual/) and [web preview](https://cli.github.com/)
